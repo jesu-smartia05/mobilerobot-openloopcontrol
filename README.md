@@ -35,8 +35,8 @@ Execute the Open-Loop Control
 ## Program
 ```
 '''
-developed by:HEMA LOKITHA P
-reg no:23007550
+developed by: JESU SMARTIA A
+reg no: 212223110016
 '''
 from robomaster import robot
 import time
